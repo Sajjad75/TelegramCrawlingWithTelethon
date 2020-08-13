@@ -29,10 +29,3 @@ o	Datetime
 o	Pymysql
 
 o	Time
-
-## Installation
-
-Install Telethon Library
-```bash
-pip install Telethon
-```
