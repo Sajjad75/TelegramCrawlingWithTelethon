@@ -1,0 +1,7 @@
+Telethon
+Asyncio
+Json
+Configparser
+Datetime
+Pymysql
+Time
